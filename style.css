@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  /* 讓 canvas 盡可能填滿視窗（實際大小由 p5.js 控制） */
+  width: 100vw;
+  height: 100vh;
+}
+
+/* 若需要在小螢幕顯示時防止滾動 */
+body {
+  overflow: hidden;
+}

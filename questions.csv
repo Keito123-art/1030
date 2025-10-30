@@ -1,0 +1,6 @@
+Question,OptionA,OptionB,OptionC,OptionD,CorrectOption
+p5.js 是基於哪種語言的函式庫？,Python,C++,JavaScript,Java,2
+在 p5.js 中哪個函式只執行一次？,draw(),setup(),preload(),loop(),1
+要讀取外部資料，如 CSV，應該使用哪個 p5.js 函式？,loadData(),fetchTable(),loadTable(),readCSV(),2
+在 draw() 中，用來設定形狀填滿顏色的函式是什麼？,stroke(),bgcolor(),fill(),color(),2
+若要讓自定義游標有平滑的延遲移動效果，最適合使用哪個 p5.js 函式？,delay(),lerp(),smooth(),map(),1
